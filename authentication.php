@@ -6,6 +6,6 @@ if ($_POST['username'] == "guest"){
         header("Location: index.php");
     }else{
         header("Location: login.php");
-        }
+        } 
 ?>
 
